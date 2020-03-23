@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "695672515921",
+    "firebase_url": "https://nirvoy-19853.firebaseio.com",
+    "project_id": "nirvoy-19853",
+    "storage_bucket": "nirvoy-19853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695672515921:android:bc3f7c99729db04dc3f770",
+        "android_client_info": {
+          "package_name": "com.example.nirvoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695672515921-kq7kmk3j6hn8cm7q0dniav7je67r5bhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirvoy",
+            "certificate_hash": "6d6190c6c1298708d9e8e997a1e33575df16deb5"
+          }
+        },
+        {
+          "client_id": "695672515921-6171h05ud1dsla1g95ioubpf0r55cutm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirvoy",
+            "certificate_hash": "8fe872202c02335e0a63837c6e0e650c311f46ae"
+          }
+        },
+        {
+          "client_id": "695672515921-r2bn56hqh6htqctg711cpllsrctb9060.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKGRvushwnkTRZVAjw853MwRqb3KeIhBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695672515921-r2bn56hqh6htqctg711cpllsrctb9060.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

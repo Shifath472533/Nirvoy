@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".SettingsActivity">
+
+    <TextView
+        android:id="@+id/radiusId"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:text="Enter your desired Radius"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        android:textColor="@color/grey"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/radiusEditText"
+        android:layout_marginTop="30dp"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:inputType="phone"
+        android:hint="Radius (meter)"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:id="@+id/radiusBtnId"
+        android:layout_width="296dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimary"
+        android:text="Add Contact"
+        android:textColor="#ffffff"
+        android:textSize="18dp" />
+
+</LinearLayout>
